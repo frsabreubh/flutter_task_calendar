@@ -33,24 +33,6 @@ Um aplicativo desenvolvido em **Flutter** para gerenciamento de tarefas diárias
 
 ---
 
-## 🧱 Estrutura do Projeto
-
-lib/
-├── main.dart
-├── models/
-│ └── task.dart
-├── screens/
-│ ├── auth_screen.dart
-│ ├── calendar_screen.dart
-│ └── tasks_screen.dart
-└── widgets/
-├── add_task_dialog.dart
-├── edit_task_dialog.dart
-└── language_selector.dart
-
-
----
-
 ## ⚙️ Tecnologias Utilizadas
 
 - [Flutter](https://flutter.dev/)
