@@ -3,6 +3,11 @@
 Um aplicativo desenvolvido em **Flutter** para gerenciamento de tarefas diárias com autenticação local, armazenamento persistente com **Hive** e visualização interativa por meio de um **calendário inteligente**.
 
 ---
+# Visão das principais telas
+
+<img width="819" height="474" alt="image" src="https://github.com/user-attachments/assets/727d1eb3-1613-4bbc-be69-9848cc74a872" />
+
+---
 
 ## 🚀 Funcionalidades
 
